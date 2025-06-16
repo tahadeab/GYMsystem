@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\bin\Debug\DataAcciss_GymSystem.dll
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\bin\Debug\DataAcciss_GymSystem.pdb
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\obj\Debug\DataAcciss_GymSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\obj\Debug\DataAcciss_GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\obj\Debug\DataAcciss_GymSystem.dll
+C:\Users\ASUS\source\repos\DataAcciss_GymSystem\obj\Debug\DataAcciss_GymSystem.pdb
